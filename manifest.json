@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of singularity",
+    "framework": "ubuntu-sdk-14.10-dev2",
+    "hooks": {
+        "singularity": {
+            "apparmor": "singularity.apparmor",
+            "desktop": "singularity.desktop"
+        }
+    },
+    "maintainer": "Ray Alez",
+    "name": "com.ubuntu.developer.rayalez.singularity",
+    "title": "singularity",
+    "version": "0.0.1"
+}

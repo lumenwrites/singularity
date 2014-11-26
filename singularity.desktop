@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=singularity
+Exec=qmlscene $@ main.qml
+Icon=singularity.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
