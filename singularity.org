@@ -1,0 +1,31 @@
+Take screeps as my starting point.
+- in hy/py
+- desktop, UT.
+Think more.
+
+Ideas I love:
+- minimalistic graphics
+- take main concepts from a kind of game, and strip away silliness
+  (maye with  bit better graphics/idea)
+- customizable procedural units. not types of units,
+  but one perfect type with cool properties, you can develop in any direction you want.
+
+Questions:
+- Can/should do rpg instead of starcraft?
+- What MVP looks like?
+
+play and learn all the imperfections/dissatisfactions/bugs, and more importantly - ideas on how to improve that.
+It's close to my perfect game but not it.
+Don't pick up on it's limitations though.
+
+THINK.
+* //
+Okay, first of all it is singularity and I'm controlling robots.
+
+Dude, this is such a huge mistake!! It should be so much more than that, it should teach people
+lisp, and programming AI!!
+MVP? pacman/robo puzzle is the MVP!!
+* MVP
+Edx AI course!! Environment combining pacman, vacuum-cleaner, A* search puzzles!!
+Target to AI students, make a video course based on AIMA/Edx and this game.
+Go from there.

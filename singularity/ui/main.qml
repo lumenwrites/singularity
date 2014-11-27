@@ -25,6 +25,12 @@ MainView {
     height: units.gu(75)
 
     Page {
-        Level {}
+        Flickable {
+            anchors.fill:parent
+            contentWidth: level.width; contentHeight: level.height;
+            Level {
+                id: level
+            }
+        }
     }
 }
